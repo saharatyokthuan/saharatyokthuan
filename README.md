@@ -89,5 +89,9 @@ I like things that **actually work, are readable, and are open to everyone** —
 </details>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Code%20written%20by-Artificial%20Intelligence-a78bfa?style=for-the-badge&logo=openai&logoColor=white" alt="Code written by Artificial Intelligence" />
+</p>
+
+<p align="center">
   <i>ทำด้วย ❤️ ที่ประเทศไทย · Made with ❤️ in Thailand</i>
 </p>
