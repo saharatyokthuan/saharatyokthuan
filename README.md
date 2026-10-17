@@ -82,8 +82,8 @@ I like things that **actually work, are readable, and are open to everyone** —
 <details>
 <summary>📝 หมายเหตุ / Notes</summary>
 
-- **stats card ใช้บริการภายนอก** (github-readme-stats, streak-stats, profile-trophy) — ถ้าไม่ขึ้นให้ลองรีเฟรช
-  (Vercel จำกัดคำขอ ต่อ IP บางช่วง)
+- **stats card ใช้บริการภายนอก** (github-readme-stats, streak-stats) — ถ้าไม่ขึ้นให้ลองรีเฟรช
+  (Vercel จำกัดคำขอต่อ IP บางช่วง) · ส่วน trophy ถอดออกแล้วเพราะเปลี่ยนเป็นแบบเสียเงิน
 - สีธีมจูนให้เข้ากับเว็บองค์กร: `#0b0d12` (พื้น) · `#6ea8fe` (accent) · `#a78bfa` (accent-2) · `#e6e9ef` (ข้อความ)
 - แก้เนื้อหาได้ที่ไฟล์นี้เลย — บันทึกแล้ว GitHub อัปเดตใต้โปรไฟล์ทันที
 </details>
