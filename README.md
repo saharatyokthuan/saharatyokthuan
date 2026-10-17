@@ -52,7 +52,6 @@ I like things that **actually work, are readable, and are open to everyone** —
 | โปรเจกต์ / Project | เกี่ยวกับ / About |
 |---|---|
 | 🧩 **[Saharat Labs](https://github.com/Saharat-labs)** | องค์กรของผม — AI agents, เครื่องมือ และของทดลอง · my org for AI agents, tools & experiments |
-| 🐍 **[pydroid](https://saharat-labs.github.io/#projects)** | Python REPL บนเบราว์เซอร์ด้วย Pyodide — รัน Python โดยไม่ต้องติดตั้ง · run Python in the browser |
 | 💰 **[budgetctrl](https://github.com/saharatyokthuan/budgetctrl)** | แอปบันทึกการเงิน หนี้สิน งบประมาณ และเป้าหมายออม · track money, debt, budget & savings goals |
 | 📊 **[python-lessons](https://github.com/saharatyokthuan/python-lessons)** | คอร์ส Python สู่การวิเคราะห์ข้อมูล พร้อมแบบฝึกหัดและเฉลย · Python → data analysis course |
 | 🛒 **[POS_MB](https://github.com/saharatyokthuan/POS_MB)** | ติดตามสินค้า/ร้านค้าส่วนตัว · personal store tracker |
