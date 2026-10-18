@@ -4,8 +4,8 @@ Repo ต้องชื่อ saharatyokthuan/saharatyokthuan ถึงจะข
 ถ้า stats card ไม่โหลด → ดูหัวข้อ "หมายเหตุ" ท้ายไฟล์
 -->
 
-<h1 align="center">สวัสดีครับ 👋 ผมคือ <b>Saharat</b></h1>
-<h3 align="center">สร้างของที่ใช้ได้จริง · Building things that actually work</h3>
+<h1 align="center">Hello, My Name is <b>Saharat</b></h1>
+<h3 align="center">I'm Learning Code by AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saharatyokthuan&style=flat-square&color=6ea8fe" alt="profile views" />
@@ -14,12 +14,12 @@ Repo ต้องชื่อ saharatyokthuan/saharatyokthuan ถึงจะข
 ---
 
 ### 🇹🇭 ภาษาไทย
-สร้าง **AI แบบ local-first** (รันในเครื่องตัวเอง ไม่ต้องพึ่งคลาวด์), เครื่องมือนักพัฒนา และแอปการเงิน/POS
-ผมชอบของที่ **ใช้งานได้จริง อ่านโค้ดรู้เรื่อง และเปิดให้ทุกคนดูได้** — ตอนนี้ดูแลองค์กรเล็ก ๆ ชื่อ **Saharat Labs**
+สร้าง **โดยใช้ Terminal แอป Termux บนมือถือ Android รัน AI แบบ local-first** · Project: เครื่องมือนักพัฒนา และแอปการเงิน/POS
+ผมชอบของที่ **ใช้งานได้จริง อ่านโค้ดรู้เรื่อง และเปิดให้ทุกคนดูได้** — ตอนนี้กำลังทำโปรเจกต์เล็ก ๆ ชื่อ **Saharat Labs**
 
 ### 🇬🇧 English
-I build **local-first AI** (runs on your own machine, no cloud dependency), developer tools, and finance/POS apps.
-I like things that **actually work, are readable, and are open to everyone** — right now I look after a small org called **Saharat Labs**
+I work **on an Android phone through the Termux terminal, running AI local-first**, and build developer tools and finance/POS apps.
+I like things that **actually work, are readable, and are open to everyone** — right now I'm building a small project called **Saharat Labs**
 
 ---
 
