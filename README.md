@@ -4,11 +4,11 @@
      ========================================================= -->
 
 <!-- Header: แบนเนอร์คลื่นไล่สี ดำ -> ทอง -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7B32B&height=170&section=header&text=Saharat Yokthuan&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Designer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7B32B&height=170&section=header&text=Saharat%20Yokthuan&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Designer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 
 <!-- ข้อความพิมพ์อัตโนมัติ: แก้ใน lines= (คั่นบรรทัดด้วย ; และใช้ + แทนช่องว่าง) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+YOUR+NAME+%F0%9F%91%8B;Engineer+by+logic+%E2%80%A2+Designer+by+heart;Building+things+that+ROAR+%F0%9F%A6%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saharat+%F0%9F%91%8B;Engineer+by+logic+%E2%80%A2+Designer+by+heart;Building+things+that+ROAR+%F0%9F%A6%81" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,34 +16,59 @@
   <a href="https://github.com/saharatyokthuan?tab=followers"><img src="https://img.shields.io/github/followers/saharatyokthuan?label=Followers&style=flat-square&color=F7B32B" alt="followers" /></a>
 </p>
 
+<!-- 🔗 Nav: กระโดดไปแต่ละหมวด (แบบ resume) -->
+<p align="center">
+  <a href="#-about-me">🦁 About</a> •
+  <a href="#-featured-projects">💼 Projects</a> •
+  <a href="#️️-tech-stack">🛠️ Stack</a> •
+  <a href="#-github-stats">📊 Stats</a> •
+  <a href="#-connect-with-me">📫 Connect</a>
+</p>
+
 ---
 
 <!-- GIF สิงโตลอยชิดขวา ข้อความ About Me จะไหลอยู่ด้านซ้าย -->
-<img align="right" src="./assets/lion-king.gif" width="300" alt="Roaring Lion King" />
+<img align="right" src="./assets/lion-king.gif" width="300" alt="Roaring Lion" />
 
 ### 👑 About Me
 
 - 🦁 สวัสดีครับ ผม **saharatyokthuan** — Software Engineer & Designer จากประเทศไทย 🇹🇭
-- 🔭 ตอนนี้กำลังทำ **[PROJECT NAME](https://github.com/saharatyokthuan/PROJECT)**
+- 🔭 ตอนนี้กำลังทำ **[POS-MOBILE](https://github.com/saharatyokthuan/pos-mobile)** — ระบบขายหน้าร้าน PWA บนมือถือ (FastAPI + SQLite + Vanilla JS)
 - 🌱 กำลังเรียนรู้ **System Design** และ **Cloud Architecture**
 - 🎨 หลงใหลการออกแบบ **UI/UX** ที่ทั้งสวยและใช้งานง่าย
-- 💬 คุยกับผมได้เรื่อง **Python, React, Figma**
+- 💬 คุยกับผมได้เรื่อง **Python, JavaScript, UI/UX**
 - ⚡ Fun fact: โค้ดที่ดีควร *คำราม* ได้เหมือนราชสีห์
 
-### 📫 Connect with me
+### 🎯 What I Build
 
-<a href="mailto:saharatyokthuan.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+- **ระบบขายหน้าร้าน (POS)** — PWA ใช้บนมือถือได้จริง สแกนบาร์โค้ด, จัดการสต๊อก, ลูกหนี้, รายงาน, sync ข้อมูล, รองหลายร้าน
+- **แอปการเงินส่วนตัว** — บันทึกรายรับรายจ่าย, งบประมาณ, เป้าหมายออม, จัดการหนี้สิน
+- **คอร์ส/สื่อการสอน Python** — บทเรียน Python สู่การวิเคราะห์ข้อมูล พร้อมแบบฝึกหัดและเฉลย
+- **เครื่องมืออำนวยความสะดวก** — สคริปต์ automate งานจุกจิกบน Termux/Linux ให้ทำงานเอง
 
-<!-- ตัดการลอยของรูป ให้หัวข้อถัดไปเริ่มเต็มความกว้าง -->
 <br clear="right" />
+
+### 💼 Featured Projects
+
+| โปรเจกต์ | คืออะไร | เทคโนโลยี |
+|---------|--------|----------|
+| [**POS-MOBILE**](https://github.com/saharatyokthuan/pos-mobile) | ระบบขายหน้าร้าน PWA มือถือ — ขาย, สต๊อก, ลูกหนี้, รายงาน, multi-store, CI/CD | Python, FastAPI, SQLite, JS, PWA |
+| [**budgetctrl**](https://github.com/saharatyokthuan/budgetctrl) | แอปบันทึกการเงิน — รายรับรายจ่าย, หนี้สิน, งบประมาณ, เป้าหมายออม | JavaScript |
+| [**Cash-Flow**](https://github.com/saharatyokthuan/Cash-Flow) | จัดการการเงินส่วนตัว (โปรเจกต์แรก ๆ ของผม) | JavaScript |
+| [**python-lessons**](https://github.com/saharatyokthuan/python-lessons) | คอร์ส Python สู่การวิเคราะห์ข้อมูล — 5 บทเรียน พร้อมแบบฝึกหัด+เฉลย | Python |
+
+> 📦 ดูทั้งหมด: [github.com/saharatyokthuan?tab=repositories](https://github.com/saharatyokthuan?tab=repositories)
 
 ### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,figma,docker,git,linux&theme=dark" alt="tech stack" />
 </p>
+
+- **Backend:** Python, FastAPI, SQLite, REST API, Alembic
+- **Frontend:** JavaScript, HTML5, CSS3, PWA, Vanilla SPA
+- **Design:** Figma, UI/UX
+- **Tools:** Git, Docker, Linux/Termux, GitHub Actions
 
 ### 📊 GitHub Stats
 
@@ -55,6 +80,41 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saharatyokthuan&hide_border=true&background=0D1117&ring=F7B32B&fire=F7B32B&currStreakLabel=F7B32B" alt="GitHub streak" />
 </p>
+
+<!-- 🏆 Trophy ระดับทอง -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=saharatyokthuan&no-frame=true&theme=juicyfresh&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophy" />
+  </a>
+</p>
+
+<!-- 📊 Activity Graph ทอง-ดำ -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/?username=saharatyokthuan&theme=github-compact&bg_color=0D1117&color=F7B32B&line=F7B32B&point=FFFFFF&area=true&area_color=F7B32B&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<!-- 🐍 Snake กิน contribution (สร้างโดย GitHub Action — แสดงหลัง push รอบแรก) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/snake-output/snake.svg" alt="Snake animation" width="100%" />
+</p>
+
+### 📫 Connect with me
+
+<a href="mailto:saharatyokthuan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- ⬇️ แก้ href="#" เป็นลิงก์จริงของแต่ละ platform -->
+<a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="#"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="#"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Call-4CAF50?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Call" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <!-- Footer: คลื่นปิดท้าย -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B32B,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
