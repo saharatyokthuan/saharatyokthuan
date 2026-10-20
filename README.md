@@ -95,7 +95,7 @@
 
 <!-- 🐍 Snake กิน contribution (สร้างโดย GitHub Action — แสดงหลัง push รอบแรก) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/snake-output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/snake-output/snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
 
 ### 📫 Connect with me
