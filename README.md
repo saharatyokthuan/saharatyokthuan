@@ -27,8 +27,8 @@
 
 ---
 
-<!-- GIF สิงโตลอยชิดขวา ข้อความ About Me จะไหลอยู่ด้านซ้าย -->
-<img align="right" src="./assets/lion-king.gif" width="300" alt="Roaring Lion" />
+<!-- GIF โปรไฟล์ลอยชิดขวา ข้อความ About Me จะไหลอยู่ด้านซ้าย -->
+<img align="right" src="./assets/profile.gif" width="220" alt="Profile" />
 
 ### 👑 About Me
 
