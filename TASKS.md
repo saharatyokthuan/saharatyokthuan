@@ -6,5 +6,6 @@
 ✅ ข้อ 10 ยืนยันแล้ว: snake-output มีทั้ง snake-dark.svg และ snake-light.svg จริง (แก้ในรอบ 1–4)
 ⏳ ข้อ 11 รอคำตอบ: แจ้งเตือน workflow ล้มเหลวทางไหน (สร้าง issue / webhook / อื่นๆ)
 🟡 แก้แล้ว ข้อ 12: ลบคำแนะนำ "แก้ชื่อ/ช่อง saharatyokthuan..." ออกจากคอมเมนต์หัวไฟล์แล้ว (ยังไม่ได้ commit)
-🟢 เหลือแก้ ข้อ 13-16 (fontColor ตัวใหญ่, รูปสถิติ height, คอมเมนต์ยาว, ฯลฯ)
+🟡 แก้แล้ว ข้อ 13-15: fontColor=ffffff ตัวเล็ก, รูปสถิติ responsive (max-width:100%), คอมเมนต์คลื่นทองสั้นลง (ยังไม่ได้ commit)
+🟢 เหลือแก้ ข้อ 16: snake.yml ใช้ action บุคคลที่สาม (ถูกต้องแล้วเพราะ pin commit SHA — หมายเหตุไว้เท่านั้น)
 วิธีรัน: แก้ไข README.md แล้ว commit push ลง main

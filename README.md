@@ -3,7 +3,7 @@
      ========================================================= -->
 
 <!-- Header: แบนเนอร์คลื่นไล่สี ดำ -> ทอง -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7B32B&height=170&section=header&text=Saharat%20Yokthuan&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Designer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7B32B&height=170&section=header&text=Saharat%20Yokthuan&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Designer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 <p align="center" style="font-size:0.9rem;color:#8b949e;margin-top:-8px;">หากแบนเนอร์ไม่ขึ้น โปรดลองรีเฟรชอีกครั้งหรือตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</p>
 
 <!-- รูปโปรไฟล์กลางหน้า — สลับตามธีม GitHub (มืด/สว่าง) อัตโนมัติ -->
@@ -32,7 +32,7 @@
   <a href="#-connect-with-me">📫 Connect</a>
 </p>
 
-<!-- ✨ คลื่นทองเรืองแสงวิ่ง — ใช้ GIF เพราะ GitHub ตัดแอนิเมชัน SVG (SMIL) ทิ้งตอน render -->
+<!-- คลื่นทองเรืองแสง — ใช้ GIF เพราะ GitHub ตัด SVG แอนิเมชันทิ้ง -->
 <p align="center">
   <img src="./assets/wave.gif" width="100%" alt="" />
 </p>
@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7B32B&icon_color=F7B32B&text_color=C9D1D9" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7B32B&text_color=C9D1D9" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7B32B&icon_color=F7B32B&text_color=C9D1D9" alt="GitHub stats" style="max-width:100%;height:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7B32B&text_color=C9D1D9" alt="Top languages" style="max-width:100%;height:auto;" />
 </p>
 
 <p align="center">
