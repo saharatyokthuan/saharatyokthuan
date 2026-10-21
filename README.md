@@ -32,28 +32,9 @@
   <a href="#-connect-with-me">📫 Connect</a>
 </p>
 
-<!-- ✨ คลื่นทองเรืองแสงวิ่ง (SVG SMIL — เต้นเองไม่ต้องมีไฟล์) -->
+<!-- ✨ คลื่นทองเรืองแสงวิ่ง — ใช้ GIF เพราะ GitHub ตัดแอนิเมชัน SVG (SMIL) ทิ้งตอน render -->
 <p align="center">
-  <svg width="620" height="26" viewBox="0 0 620 26" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0" stop-color="#0D1117">
-          <animate attributeName="stop-color" values="#0D1117;#F7B32B;#0D1117" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="0.5" stop-color="#F7B32B">
-          <animate attributeName="stop-color" values="#F7B32B;#FFE9A8;#F7B32B" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="1" stop-color="#0D1117">
-          <animate attributeName="stop-color" values="#0D1117;#F7B32B;#0D1117" dur="4s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="11" width="620" height="4" rx="2" fill="url(#wave)" />
-    <circle r="5" cy="13" fill="#FFE9A8" opacity="0.9">
-      <animate attributeName="cx" values="0;620" dur="3s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3s" repeatCount="indefinite" />
-    </circle>
-  </svg>
+  <img src="./assets/wave.gif" width="100%" alt="" />
 </p>
 
 ---
