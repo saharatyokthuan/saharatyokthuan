@@ -6,7 +6,13 @@
 <!-- Header: แบนเนอร์คลื่นไล่สี ดำ -> ทอง -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7B32B&height=170&section=header&text=Saharat%20Yokthuan&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Designer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 
-<img align="center" src="./assets/profile.gif" width="200" height="100" alt="Profile" />
+<!-- รูปโปรไฟล์กลางหน้า — สลับตามธีม GitHub (มืด/สว่าง) อัตโนมัติ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.gif" />
+    <img src="./assets/profile-light.gif" width="200" alt="Saharat profile" />
+  </picture>
+</p>
 <!-- ข้อความพิมพ์อัตโนมัติ: แก้ใน lines= (คั่นบรรทัดด้วย ; และใช้ + แทนช่องว่าง) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saharat+%F0%9F%91%8B;Engineer+by+logic+%E2%80%A2+Designer+by+heart;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
@@ -26,9 +32,33 @@
   <a href="#-connect-with-me">📫 Connect</a>
 </p>
 
+<!-- ✨ คลื่นทองเรืองแสงวิ่ง (SVG SMIL — เต้นเองไม่ต้องมีไฟล์) -->
+<p align="center">
+  <svg width="620" height="26" viewBox="0 0 620 26" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#0D1117">
+          <animate attributeName="stop-color" values="#0D1117;#F7B32B;#0D1117" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="0.5" stop-color="#F7B32B">
+          <animate attributeName="stop-color" values="#F7B32B;#FFE9A8;#F7B32B" dur="4s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="1" stop-color="#0D1117">
+          <animate attributeName="stop-color" values="#0D1117;#F7B32B;#0D1117" dur="4s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="11" width="620" height="4" rx="2" fill="url(#wave)" />
+    <circle r="5" cy="13" fill="#FFE9A8" opacity="0.9">
+      <animate attributeName="cx" values="0;620" dur="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="3s" repeatCount="indefinite" />
+    </circle>
+  </svg>
+</p>
+
 ---
 
-<!-- GIF โปรไฟล์ลอยชิดขวา ข้อความ About Me จะไหลอยู่ด้านซ้าย -->
+<!-- รูปโปรไฟล์ย้ายขึ้นกลางหน้าแล้ว (ดูช่วงหัวไฟล์) ไม่ลอยขวาแล้ว -->
 
 ### 👑 About Me
 
@@ -45,8 +75,6 @@
 - **แอปการเงินส่วนตัว** — บันทึกรายรับรายจ่าย, งบประมาณ, เป้าหมายออม, จัดการหนี้สิน
 - **คอร์ส/สื่อการสอน Python** — บทเรียน Python สู่การวิเคราะห์ข้อมูล พร้อมแบบฝึกหัดและเฉลย
 - **เครื่องมืออำนวยความสะดวก** — สคริปต์ automate งานจุกจิกบน Termux/Linux ให้ทำงานเอง
-
-<br clear="right" />
 
 ### 💼 Featured Projects
 
@@ -94,16 +122,16 @@
 <a href="https://x.com/itsmelik_yok"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.youtube.com/@saharat29lik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://line.me/ti/p/EXpe9RS-fJ"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
-<a href="https://www.threads.com/@shrt_ykk.56"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
-<a href="https://www.facebook.com/share/1EADNr6ZVv/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <!-- ⏸️ ยังไม่มีลิงก์จริง — เปิดบล็อกนี้เมื่อใส่ href ครบทุกบรรทัด
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://www.threads.com/@shrt_ykk.56"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="#"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Call-4CAF50?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Call" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/share/1EADNr6ZVv/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 -->
 
 <!-- Footer: คลื่นปิดท้าย -->
