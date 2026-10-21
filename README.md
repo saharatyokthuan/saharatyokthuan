@@ -1,6 +1,5 @@
 <!-- =========================================================
      GitHub Profile README — ธีมทองคำ
-     วิธีแก้: แก้ชื่อ/ช่อง saharatyokthuan ให้ครบทุกจุดเมื่อใช้กับบัญชีอื่น
      ========================================================= -->
 
 <!-- Header: แบนเนอร์คลื่นไล่สี ดำ -> ทอง -->
@@ -109,6 +108,7 @@
 <a href="https://line.me/ti/p/EXpe9RS-fJ"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
 <a href="https://www.threads.com/@shrt_ykk.56"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
 <a href="https://www.facebook.com/saharat.yt29"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://github.com/saharatyokthuan/saharatyokthuan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <!-- ⏸️ ยังไม่มีลิงก์จริง — เปิดลิงก์นี้เมื่อใส่ href ครบทุกบรรทัด
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
