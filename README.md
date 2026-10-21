@@ -109,6 +109,7 @@
 <a href="https://www.threads.com/@shrt_ykk.56"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
 <a href="https://www.facebook.com/saharat.yt29"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://github.com/saharatyokthuan/saharatyokthuan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/saharatyokthuan"><img src="https://img.shields.io/badge/Follow-%40saharatyokthuan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 
 <!-- ⏸️ ยังไม่มีลิงก์จริง — เปิดลิงก์นี้เมื่อใส่ href ครบทุกบรรทัด
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>

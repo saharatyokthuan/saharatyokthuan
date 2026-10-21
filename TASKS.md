@@ -1,12 +1,25 @@
 # TASKS — ปรับปรุง GitHub Profile README
 
-🔴 แก้แล้ว 4 ข้อ (1-4): ปิดอีเมลบอท, typing responsive บนมือถือ, งูรองธีมสว่าง/มืด, banner มีข้อความ fallback (commit+push แล้ว)
-🟡 แก้แล้ว 5 ข้อ (5-9): typo รองรับหลายร้าน, รูปโปรไฟล์ responsive, เฟสบุ๊ก facebook.com/saharat.yt29, อินสตาแกรมตัดพารามิเตอร์ ?, คอมเมนต์ "เปิดบล็อกนี้" → "เปิดลิงก์นี้" (commit+push แล้ว)
-🟡 เพิ่มแล้ว: ปุ่ม GitHub badge https://github.com/saharatyokthuan/saharatyokthuan ใน Connect with me (commit+push แล้ว)
-✅ ข้อ 10 ยืนยันแล้ว: snake-output มีทั้ง snake-dark.svg และ snake-light.svg จริง (แก้ในรอบ 1–4)
-✅ ข้อ 11 แก้แล้ว: เพิ่ม step Notify on failure (if: failure()) สร้าง GitHub Issue อัตโนมัติเมื่อ workflow ล้มเหลว (commit+push แล้ว)
-🟡 แก้แล้ว ข้อ 12: ลบคำแนะนำ "แก้ชื่อ/ช่อง saharatyokthuan..." ออกจากคอมเมนต์หัวไฟล์แล้ว (commit+push แล้ว)
-🟡 แก้แล้ว ข้อ 13-15: fontColor=ffffff ตัวเล็ก, รูปสถิติ height=170 + width=100% responsive, คอมเมนต์คลื่นทองสั้นลง (commit+push แล้ว)
-🟢 ข้อ 16: snake.yml ใช้ action บุคคลที่สาม — ถูกต้องแล้วเพราะ pin commit SHA (หมายเหตุเท่านั้น ไม่ต้องแก้)
-✅ ข้อ 11 แก้แล้ว: เพิ่ม step Notify on failure (if: failure()) สร้าง GitHub Issue อัตโนมัติเมื่อ workflow ล้มเหลว (commit+push แล้ว)
-วิธีรัน: แก้ไข README.md แล้ว commit push ลง main
+## งานที่เสร็จแล้ว (commit+push ครบ)
+- ข้อ 1-4 ร้ายแรง: ปิดอีเมลบอท, typing responsive, งูธีมสว่าง/มืด, banner fallback
+- ข้อ 5-9 ควรแก้: typo รองรับหลายร้าน, รูปโปรไฟล์ responsive, เฟสบุ๊ก, อินสตาแกรม, คอมเมนต์ "เปิดลิงก์นี้"
+- ข้อ 10: ยืนยัน snake-output มีไฟล์ครบ
+- ข้อ 11: เพิ่ม step Notify on failure (สร้าง GitHub Issue อัตโนมัติ)
+- ข้อ 12-16: ลบคำแนะนำหัวไฟล์, fontColor, รูปสถิติ height=170 width=100%, คอมเมนต์สั้นลง
+
+## งานค้าง (แก้ไฟล์แล้ว รอ commit)
+- README.md + TASKS.md: เพิ่มปุ่ม Follow GitHub (@saharatyokthuan) ใน Connect with me
+
+## ฟีเจอร์ต่อไป (mobile-first)
+1. QR Code ติดต่อ (LINE / GitHub)
+2. Top Repositories card (ข้าง GitHub Stats)
+3. Recent Activity (Actions อัตโนมัติ)
+
+## ขั้นตอนการทำงาน
+1. ตรวจ syntax ไฟล์ที่เปลี่ยน → หยุดรายงานหากไม่ผ่าน
+2. เช็คไม่มี .env / ไฟล์ขยะใน commit
+3. เสนอข้อความ commit 1 บรรทัด → รอผู้ใช้ยืนยัน
+4. ยืนยันแล้วจึง git add และ git commit
+5. ถามก่อน git push ทุกครั้ง
+
+วิธีรัน: แก้ไขไฟล์แล้ว commit push ลง main
