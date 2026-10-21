@@ -5,6 +5,7 @@
 
 <!-- Header: แบนเนอร์คลื่นไล่สี ดำ -> ทอง -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7B32B&height=170&section=header&text=Saharat%20Yokthuan&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Designer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
+<p align="center" style="font-size:0.9rem;color:#8b949e;margin-top:-8px;">หากแบนเนอร์ไม่ขึ้น โปรดลองรีเฟรชอีกครั้งหรือตรวจสอบการเชื่อมต่ออินเทอร์เน็ต</p>
 
 <!-- รูปโปรไฟล์กลางหน้า — สลับตามธีม GitHub (มืด/สว่าง) อัตโนมัติ -->
 <p align="center">
@@ -15,7 +16,7 @@
 </p>
 <!-- ข้อความพิมพ์อัตโนมัติ: แก้ใน lines= (คั่นบรรทัดด้วย ; และใช้ + แทนช่องว่าง) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saharat+%F0%9F%91%8B;Engineer+by+logic+%E2%80%A2+Designer+by+heart;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&lines=Hi+there!+I'm+Saharat+%F0%9F%91%8B;Engineer+by+logic+%E2%80%A2+Designer+by+heart;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" style="width:100%;max-width:600px;height:auto;display:block;margin:auto;" />
 </p>
 
 <p align="center">
@@ -92,12 +93,15 @@
 
 <!-- 🐍 Snake กิน contribution (สร้างโดย GitHub Action ทุกวัน 01:30 UTC) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/snake-output/snake-dark.svg" alt="Snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/snake-output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/snake-output/snake-dark.svg" alt="Snake animation" width="100%" />
+  </picture>
 </p>
 
 ### 📫 Connect with me
 
-<a href="mailto:saharatyokthuan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/saharatyokthuan/saharatyokthuan/issues"><img src="https://img.shields.io/badge/Contact-GitHub%20Issues-D14836?style=for-the-badge&logo=github&logoColor=white" alt="Contact via GitHub Issues" /></a>
 <a href="https://www.tiktok.com/@saharat_cc"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="https://www.instagram.com/shrt_ykk.56?psln=eDN5OWF6ZHE4aGdn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://x.com/itsmelik_yok"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
