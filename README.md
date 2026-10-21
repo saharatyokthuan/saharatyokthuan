@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7B32B&icon_color=F7B32B&text_color=C9D1D9" alt="GitHub stats" style="max-width:100%;height:auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7B32B&text_color=C9D1D9" alt="Top languages" style="max-width:100%;height:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7B32B&icon_color=F7B32B&text_color=C9D1D9" alt="GitHub stats" width="100%" height="170" style="max-width:100%;height:auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7B32B&text_color=C9D1D9" alt="Top languages" width="100%" height="170" style="max-width:100%;height:auto;" />
 </p>
 
 <p align="center">
