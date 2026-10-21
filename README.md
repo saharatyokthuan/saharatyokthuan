@@ -6,6 +6,7 @@
 <!-- Header: แบนเนอร์คลื่นไล่สี ดำ -> ทอง -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7B32B&height=170&section=header&text=Saharat%20Yokthuan&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Designer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
 
+<img align="center" src="./assets/profile.gif" width="200" height="100" alt="Profile" />
 <!-- ข้อความพิมพ์อัตโนมัติ: แก้ใน lines= (คั่นบรรทัดด้วย ; และใช้ + แทนช่องว่าง) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saharat+%F0%9F%91%8B;Engineer+by+logic+%E2%80%A2+Designer+by+heart;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
@@ -28,7 +29,6 @@
 ---
 
 <!-- GIF โปรไฟล์ลอยชิดขวา ข้อความ About Me จะไหลอยู่ด้านซ้าย -->
-<img align="right" src="./assets/profile.gif" width="220" alt="Profile" />
 
 ### 👑 About Me
 
