@@ -11,7 +11,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.gif" />
-    <img src="./assets/profile-light.gif" width="200" alt="Saharat profile" />
+    <img src="./assets/profile-light.gif" alt="Saharat profile" style="width:100%;max-width:200px;height:auto;display:block;margin:auto;" />
   </picture>
 </p>
 <!-- ข้อความพิมพ์อัตโนมัติ: แก้ใน lines= (คั่นบรรทัดด้วย ; และใช้ + แทนช่องว่าง) -->
@@ -53,7 +53,7 @@
 
 ### 🎯 What I Build
 
-- **ระบบขายหน้าร้าน (POS)** — PWA ใช้บนมือถือได้จริง สแกนบาร์โค้ด, จัดการสต๊อก, ลูกหนี้, รายงาน, sync ข้อมูล, รองหลายร้าน
+- **ระบบขายหน้าร้าน (POS)** — PWA ใช้บนมือถือได้จริง สแกนบาร์โค้ด, จัดการสต๊อก, ลูกหนี้, รายงาน, sync ข้อมูล, รองรับหลายร้าน
 - **แอปการเงินส่วนตัว** — บันทึกรายรับรายจ่าย, งบประมาณ, เป้าหมายออม, จัดการหนี้สิน
 - **คอร์ส/สื่อการสอน Python** — บทเรียน Python สู่การวิเคราะห์ข้อมูล พร้อมแบบฝึกหัดและเฉลย
 - **เครื่องมืออำนวยความสะดวก** — สคริปต์ automate งานจุกจิกบน Termux/Linux ให้ทำงานเอง
@@ -108,7 +108,7 @@
 <a href="https://www.youtube.com/@saharat29lik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 <a href="https://line.me/ti/p/EXpe9RS-fJ"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
 <a href="https://www.threads.com/@shrt_ykk.56"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
-<a href="https://www.facebook.com/share/1EADNr6ZVv/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.facebook.com/saharat.yt29"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <!-- ⏸️ ยังไม่มีลิงก์จริง — เปิดบล็อกนี้เมื่อใส่ href ครบทุกบรรทัด
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
