@@ -7,6 +7,11 @@ on:
   push:
     branches: [main]
 
+# push รัว ๆ ให้ยกเลิกรอบเก่า ไม่ต่อคิวซ้ำ
+concurrency:
+  group: generate-snake
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,10 +20,10 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Generate snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -26,7 +31,7 @@ jobs:
             dist/snake-light.svg?palette=github-light&color_snake=#F7B32B
 
       - name: Publish to snake-output branch
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@fa24774553152dd7873cd16ebd8d959b010c5445 # v4
         with:
           branch: snake-output
           folder: dist

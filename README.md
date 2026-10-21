@@ -1,6 +1,6 @@
 <!-- =========================================================
      GitHub Profile README — ธีมราชสีห์ทองคำ
-     วิธีแก้: กด Ctrl+H แทนที่ saharatyokthuan / saharatyokthuan ให้ครบทุกจุด
+     วิธีแก้: แก้ชื่อ/ช่อง saharatyokthuan ให้ครบทุกจุดเมื่อใช้กับบัญชีอื่น
      ========================================================= -->
 
 <!-- Header: แบนเนอร์คลื่นไล่สี ดำ -> ทอง -->
@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#-about-me">🦁 About</a> •
   <a href="#-featured-projects">💼 Projects</a> •
-  <a href="#️️-tech-stack">🛠️ Stack</a> •
+  <a href="#tech-stack">🛠️ Stack</a> •
   <a href="#-github-stats">📊 Stats</a> •
   <a href="#-connect-with-me">📫 Connect</a>
 </p>
@@ -59,7 +59,7 @@
 
 > 📦 ดูทั้งหมด: [github.com/saharatyokthuan?tab=repositories](https://github.com/saharatyokthuan?tab=repositories)
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,figma,docker,git,linux&theme=dark" alt="tech stack" />
@@ -81,19 +81,7 @@
   <img src="https://streak-stats.demolab.com?user=saharatyokthuan&hide_border=true&background=0D1117&ring=F7B32B&fire=F7B32B&currStreakLabel=F7B32B" alt="GitHub streak" />
 </p>
 
-<!-- 🏆 Trophy ระดับทอง -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=saharatyokthuan&no-frame=true&theme=juicyfresh&column=7&margin-w=8&margin-h=8" width="100%" alt="Trophy" />
-  </a>
-</p>
-
-<!-- 📊 Activity Graph ทอง-ดำ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/?username=saharatyokthuan&theme=github-compact&bg_color=0D1117&color=F7B32B&line=F7B32B&point=FFFFFF&area=true&area_color=F7B32B&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<!-- 🐍 Snake กิน contribution (สร้างโดย GitHub Action — แสดงหลัง push รอบแรก) -->
+<!-- 🐍 Snake กิน contribution (สร้างโดย GitHub Action ทุกวัน 01:30 UTC) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/snake-output/snake-dark.svg" alt="Snake animation" width="100%" />
 </p>
@@ -101,12 +89,13 @@
 ### 📫 Connect with me
 
 <a href="mailto:saharatyokthuan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<!-- ⬇️ แก้ href="#" เป็นลิงก์จริงของแต่ละ platform -->
-<a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="#"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
+<a href="https://www.tiktok.com/@saharat_cc"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://www.instagram.com/shrt_ykk.56?psln=eDN5OWF6ZHE4aGdn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/itsmelik_yok"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.youtube.com/@saharat29lik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://line.me/ti/p/EXpe9RS-fJ"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
+
+<!-- ⏸️ ยังไม่มีลิงก์จริง — เปิดบล็อกนี้เมื่อใส่ href ครบทุกบรรทัด
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
@@ -115,6 +104,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Call-4CAF50?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Call" /></a>
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+-->
 
 <!-- Footer: คลื่นปิดท้าย -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B32B,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
