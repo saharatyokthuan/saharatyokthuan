@@ -1,5 +1,5 @@
 <!-- =========================================================
-     GitHub Profile README — ธีมราชสีห์ทองคำ
+     GitHub Profile README — ธีมทองคำ
      วิธีแก้: แก้ชื่อ/ช่อง saharatyokthuan ให้ครบทุกจุดเมื่อใช้กับบัญชีอื่น
      ========================================================= -->
 
@@ -8,7 +8,7 @@
 
 <!-- ข้อความพิมพ์อัตโนมัติ: แก้ใน lines= (คั่นบรรทัดด้วย ; และใช้ + แทนช่องว่าง) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saharat+%F0%9F%91%8B;Engineer+by+logic+%E2%80%A2+Designer+by+heart;Building+things+that+ROAR+%F0%9F%A6%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B32B&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Saharat+%F0%9F%91%8B;Engineer+by+logic+%E2%80%A2+Designer+by+heart;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <!-- 🔗 Nav: กระโดดไปแต่ละหมวด (แบบ resume) -->
 <p align="center">
-  <a href="#-about-me">🦁 About</a> •
+  <a href="#-about-me">👋 About</a> •
   <a href="#-featured-projects">💼 Projects</a> •
   <a href="#tech-stack">🛠️ Stack</a> •
   <a href="#-github-stats">📊 Stats</a> •
@@ -32,12 +32,12 @@
 
 ### 👑 About Me
 
-- 🦁 สวัสดีครับ ผม **saharatyokthuan** — Software Engineer & Designer จากประเทศไทย 🇹🇭
+- 👋 สวัสดีครับ ผม **saharatyokthuan** — Software Engineer & Designer จากประเทศไทย 🇹🇭
 - 🔭 ตอนนี้กำลังทำ **[POS-MOBILE](https://github.com/saharatyokthuan/pos-mobile)** — ระบบขายหน้าร้าน PWA บนมือถือ (FastAPI + SQLite + Vanilla JS)
 - 🌱 กำลังเรียนรู้ **System Design** และ **Cloud Architecture**
 - 🎨 หลงใหลการออกแบบ **UI/UX** ที่ทั้งสวยและใช้งานง่าย
 - 💬 คุยกับผมได้เรื่อง **Python, JavaScript, UI/UX**
-- ⚡ Fun fact: โค้ดที่ดีควร *คำราม* ได้เหมือนราชสีห์
+- ⚡ เชื่อว่า UI ที่ดีคือผู้ขายที่เงียบที่สุด
 
 ### 🎯 What I Build
 
