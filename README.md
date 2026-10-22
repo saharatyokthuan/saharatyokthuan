@@ -90,6 +90,19 @@
   <img src="https://streak-stats.demolab.com?user=saharatyokthuan&hide_border=true&background=0D1117&ring=F7B32B&fire=F7B32B&currStreakLabel=F7B32B" alt="GitHub streak" />
 </p>
 
+<!-- Top Repositories (แยก card แต่ละ repo — mobile-first: ซ้อนแนวตั้งบนมือถือ, วางข้างกันบนจอใหญ่) -->
+<p align="center" style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
+  <a href="https://github.com/saharatyokthuan/pos-mobile" style="flex:1 1 280px;max-width:450px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saharatyokthuan&repo=pos-mobile&theme=dark&show_owner=true" alt="POS-MOBILE" width="100%" style="height:auto;display:block;" />
+  </a>
+  <a href="https://github.com/saharatyokthuan/budgetctrl" style="flex:1 1 280px;max-width:450px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saharatyokthuan&repo=budgetctrl&theme=dark&show_owner=true" alt="budgetctrl" width="100%" style="height:auto;display:block;" />
+  </a>
+  <a href="https://github.com/saharatyokthuan/python-lessons" style="flex:1 1 280px;max-width:450px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saharatyokthuan&repo=python-lessons&theme=dark&show_owner=true" alt="python-lessons" width="100%" style="height:auto;display:block;" />
+  </a>
+</p>
+
 <!-- 🐍 Snake กิน contribution (สร้างโดย GitHub Action ทุกวัน 01:30 UTC) -->
 <p align="center">
   <picture>
