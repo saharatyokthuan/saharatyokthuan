@@ -111,6 +111,11 @@
   </picture>
 </p>
 
+### 🔥 Recent Activity
+
+<!-- recent-activity:start -->
+<!-- recent-activity:end -->
+
 ### 📫 Connect with me
 
 <a href="https://github.com/saharatyokthuan/saharatyokthuan/issues"><img src="https://img.shields.io/badge/Contact-GitHub%20Issues-D14836?style=for-the-badge&logo=github&logoColor=white" alt="Contact via GitHub Issues" /></a>

@@ -1,0 +1,46 @@
+name: update-recent-activity
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: recent-activity
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Skip if triggered by bot (กัน loop)
+        if: github.actor == 'github-actions[bot]'
+        run: echo "⏭️ ข้ามการทำงานเนื่องจากถูกกระตุ้นโดย bot" && exit 0
+
+      - name: Set up Python
+        uses: actions/setup-python@0a5c615913736e3d6d0355ea7ea17e876e11243a # v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch and update recent activity
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/update-activity.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "ℹ️ ไม่มีการเปลี่ยนแปลง ข้ามการ commit"
+          else
+            git commit -m "chore: update recent activity"
+            git push
+          fi
