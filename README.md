@@ -124,6 +124,18 @@
 <a href="https://github.com/saharatyokthuan/saharatyokthuan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://github.com/saharatyokthuan"><img src="https://img.shields.io/badge/Follow-%40saharatyokthuan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 
+<!-- QR Code ติดต่อ (LINE / GitHub) — mobile-first: ซ้อนแนวตั้งบนมือถือ, วางข้างกันบนจอใหญ่ -->
+<p align="center" style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;">
+  <a href="https://line.me/ti/p/EXpe9RS-fJ" style="flex:1 1 200px;max-width:260px;text-decoration:none;display:flex;flex-direction:column;align-items:center;">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&amp;data=https://line.me/ti/p/EXpe9RS-fJ" alt="LINE QR Code" width="200" style="height:auto;display:block;margin-bottom:8px;" />
+    <span style="font-size:0.85rem;color:#8b949e;">Add LINE</span>
+  </a>
+  <a href="https://github.com/saharatyokthuan" style="flex:1 1 200px;max-width:260px;text-decoration:none;display:flex;flex-direction:column;align-items:center;">
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=250x250&amp;data=https://github.com/saharatyokthuan" alt="GitHub QR Code" width="200" style="height:auto;display:block;margin-bottom:8px;" />
+    <span style="font-size:0.85rem;color:#8b949e;">Follow GitHub</span>
+  </a>
+</p>
+
 <!-- ⏸️ ยังไม่มีลิงก์จริง — เปิดลิงก์นี้เมื่อใส่ href ครบทุกบรรทัด
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
