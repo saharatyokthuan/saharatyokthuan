@@ -6,9 +6,10 @@
 - ข้อ 10: ยืนยัน snake-output มีไฟล์ครบ
 - ข้อ 11: เพิ่ม step Notify on failure (สร้าง GitHub Issue อัตโนมัติ)
 - ข้อ 12-16: ลบคำแนะนำหัวไฟล์, fontColor, รูปสถิติ height=170 width=100%, คอมเมนต์สั้นลง
+- ปุ่ม Follow GitHub (@saharatyokthuan) ใน Connect with me (แก้ไขแล้ว รอ push)
 
-## งานค้าง (แก้ไฟล์แล้ว รอ commit)
-- README.md + TASKS.md: เพิ่มปุ่ม Follow GitHub (@saharatyokthuan) ใน Connect with me
+## งานค้าง (แก้ไขไฟล์แล้ว รอ commit)
+ไม่มี
 
 ## ฟีเจอร์ต่อไป (mobile-first)
 1. QR Code ติดต่อ (LINE / GitHub)
