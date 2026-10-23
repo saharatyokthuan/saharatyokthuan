@@ -12,9 +12,7 @@
 ไม่มี
 
 ## ฟีเจอร์ต่อไป (mobile-first)
-1. QR Code ติดต่อ (LINE / GitHub)
-2. Top Repositories card (ข้าง GitHub Stats)
-3. Recent Activity (Actions อัตโนมัติ)
+- Top Repositories card (ข้าง GitHub Stats)
 
 ## ขั้นตอนการทำงาน
 1. ตรวจ syntax ไฟล์ที่เปลี่ยน → หยุดรายงานหากไม่ผ่าน
