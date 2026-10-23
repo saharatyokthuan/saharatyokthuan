@@ -27,7 +27,7 @@
 <!-- ปุ่มสลับภาษา -->
 <p align="center">
   <a href="#th"><img src="https://img.shields.io/badge/ภาษา-ไทย-00A0E3?style=for-the-badge" alt="ไทย" /></a>
-  <a href="en"><img src="https://img.shields.io/badge/Language-English-00A0E3?style=for-the-badge" alt="English" /></a>
+  <a href="ENGLISH.md"><img src="https://img.shields.io/badge/Language-English-00A0E3?style=for-the-badge" alt="English" /></a>
 </p>
 
 <!-- คลื่นทอง -->
@@ -39,7 +39,8 @@
 
 ## 👋 เกี่ยวกับตัวฉัน
 
-- 👋 สวัสดีครับ ผม **สหรัฐ ยกทวน (Lik)** — พนักงานประจำร้านสะดวกซื้อแห่งหนึ่งในประเทศไทย 🇹🇭
+- 👋 สวัสดีครับ ผม **สหรัฐ ยกทวน**  อายุ **22** ปี
+- 😒 พนักงานประจำร้านสะดวกซื้อแห่งหนึ่งในประเทศไทย 🇹🇭
 - 💻 เรียนรู้การเขียนโค้ดด้วย JavaScript และ Python ทำทั้งระบบหน้าร้าน แอปบันทึกการเงิน
 - 💬 คุยกับผมได้เรื่อง **JavaScript, Python, UI/UX**
 
@@ -52,7 +53,7 @@
 - พนักงานประจำร้านสะดวกซื้อ
 
 ### ทักษะ
-- กำลังฝึก skill อ่านโค้ด
+- กำลังฝึก skill อ่าน เขียน โค้ด python 
 
 ## 👤 โปรไฟล์
 
@@ -77,13 +78,12 @@
 
 ## 📫 ที่อยู่/ช่องทางติดต่อ
 
-<details>
-<summary>ช่องทางออนไลน์ (ประเทศไทย)</summary>
+ช่องทางออนไลน์ (ประเทศไทย)
 
 - [GitHub Issues](https://github.com/saharatyokthuan/saharatyokthuan/issues) — ติดต่อผม
 - [TikTok](https://www.tiktok.com/@saharat_cc)
 - [Instagram](https://www.instagram.com/shrt_ykk.56)
-- [X (Twitter)](https://x.com/itsmelik_yok)
+- [X](https://x.com/itsmelik_yok)
 - [YouTube](https://www.youtube.com/@saharat29lik)
 - [LINE](https://line.me/ti/p/EXpe9RS-fJ)
 - [Threads](https://www.threads.com/@shrt_ykk.56)

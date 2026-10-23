@@ -3,7 +3,8 @@
 
 ## 👋 About Me
 
-- 👋 Hi, I'm **Saharat Yokthuan (Lik)** — a convenience store employee in Thailand 🇹🇭
+- 👋 Hi, I'm **Saharat Yokthuan** I'm **22** year.odl
+- — a convenience store employee in Thailand 🇹🇭
 - 💻 Learning to code with JavaScript and Python, building POS systems and expense tracking apps
 - 💬 Talk to me about **JavaScript, Python, UI/UX**
 
