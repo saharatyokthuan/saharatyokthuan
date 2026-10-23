@@ -27,7 +27,7 @@
 <!-- ปุ่มสลับภาษา -->
 <p align="center">
   <a href="#th"><img src="https://img.shields.io/badge/ภาษา-ไทย-00A0E3?style=for-the-badge" alt="ไทย" /></a>
-  <a href="#en"><img src="https://img.shields.io/badge/Language-English-00A0E3?style=for-the-badge" alt="English" /></a>
+  <a href="en"><img src="https://img.shields.io/badge/Language-English-00A0E3?style=for-the-badge" alt="English" /></a>
 </p>
 
 <!-- คลื่นทอง -->
@@ -106,7 +106,7 @@
 <!-- TODO: ใส่ลิงก์เรซูเม่ -->
 
 <details>
-<summary>English</summary>
+<summary><a id="en">English</a></summary>
 
 ## 👋 About Me
 
