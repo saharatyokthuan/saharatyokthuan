@@ -150,5 +150,22 @@
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 -->
 
+
+<!-- Top Repositories card (mobile-first) - รวมโปรเจกต์ยอดนิยม -->
+<p align="center">
+  <a href="https://github.com/saharatyokthuan/pos-mobile" style="flex:1 1 280px;max-width:450px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saharatyokthuan&repo=pos-mobile&theme=dark&show_owner=true" alt="POS-MOBILE" width="100%" style="height:auto;display:block;" />
+    <div style="font-size:0.85rem;color:#8b949e;padding-top:4px;">POS-MOBILE</div>
+  </a>
+  <a href="https://github.com/saharatyokthuan/budgetctrl" style="flex:1 1 280px;max-width:450px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saharatyokthuan&repo=budgetctrl&theme=dark&show_owner=true" alt="budgetctrl" width="100%" style="height:auto;display:block;" />
+    <div style="font-size:0.85rem;color:#8b949e;padding-top:4px;">budgetctrl</div>
+  </a>
+  <a href="https://github.com/saharatyokthuan/python-lessons" style="flex:1 1 280px;max-width:450px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saharatyokthuan&repo=python-lessons&theme=dark&show_owner=true" alt="python-lessons" width="100%" style="height:auto;display:block;" />
+    <div style="font-size:0.85rem;color:#8b949e;padding-top:4px;">python-lessons</div>
+  </a>
+</p>
+
 <!-- Footer: คลื่นปิดท้าย -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7B32B,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
