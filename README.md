@@ -1,6 +1,4 @@
-<!-- =========================================================
-     GitHub Profile README — สหรัฐ ยกทวน (Lik)
-     ========================================================= -->
+<!-- ===== GitHub Profile README — สหรัฐ ยกทวน ===== -->
 
 <!-- Header: แบนเนอร์คลื่นไล่สี ดำ -> ทอง -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7B32B&height=170&section=header&text=Saharat%20Yokthuan&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Designer&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="header" />
