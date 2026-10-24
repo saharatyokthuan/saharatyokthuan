@@ -17,14 +17,14 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        uses: actions/checkout@v4 # v4
 
       - name: Skip if triggered by bot (กัน loop)
         if: github.actor == 'github-actions[bot]'
         run: echo "⏭️ ข้ามการทำงานเนื่องจากถูกกระตุ้นโดย bot" && exit 0
 
       - name: Set up Python
-        uses: actions/setup-python@0a5c615913736e3d6d0355ea7ea17e876e11243a # v5
+        uses: actions/setup-python@v5 # v5
         with:
           python-version: '3.x'
 
