@@ -1,81 +1,69 @@
-<!-- ==================================================== -->
-<!-- GitHub Profile README · ฉบับภาษาไทย (README.th.md) -->
-<!-- วิธีใช้: ค้นหาคำว่า TODO และ YOUR_ แล้วแทนที่ด้วยข้อมูลจริง -->
-<!-- ==================================================== -->
-
-<!-- ───── 0) สลับภาษา ───── -->
-<p align="right">
-  <b>🇹🇭 ภาษาไทย</b> · <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/README.md">🇬🇧 English</a>
-</p>
-
+<!-- GitHub Profile README -->
 <!-- ───── 1) แบนเนอร์ส่วนหัว ───── -->
 <!-- TODO: แทน YOUR_NAME ด้วยชื่อที่จะแสดง และ YOUR_TAGLINE ด้วยคำโปรยสั้นๆ (เว้นวรรคใช้ %20) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=YOUR_NAME&fontSize=48&fontAlignY=36&desc=YOUR_TAGLINE&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="แบนเนอร์ส่วนหัว" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=สหรัฐ++ยกทวน&fontSize=48&fontAlignY=36&desc=นักเขียนโค้ดฝึกหัด+👀&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="แบนเนอร์ส่วนหัว" />
 </p>
-
-<!-- ───── 2) ข้อความพิมพ์อัตโนมัติ ───── -->
-<!-- TODO: แทน LINE_1;LINE_2;LINE_3 ด้วยประโยคแนะนำตัว (คั่นประโยคด้วย ; และเว้นวรรคด้วย +) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=LINE_1;LINE_2;LINE_3" alt="ข้อความแนะนำตัวแบบพิมพ์อัตโนมัติ" />
+<a href="#" >
+  <img scr="#" alt="รูปโปรไฟล์">
+</a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A%21+%E0%B8%9C%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD+%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90+%E0%B8%A2%E0%B8%81%E0%B8%97%E0%B8%A7%E0%B8%99;%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8+22+%E0%B8%9B%E0%B8%B5+%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94;%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A%21" alt="ข้อความแนะนำตัว" />
 </p>
 
 <!-- ───── 3) ป้ายสถิติโปรไฟล์ ───── -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="จำนวนผู้เข้าชม" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=0e75b6" alt="จำนวนผู้ติดตาม" />
+  <img src="https://komarev.com/ghpvc/?username=saharatyokthuan&label=Profile%20Views&color=0e75b6&style=flat" alt="จำนวนผู้เข้าชม" />
+  <img src="https://img.shields.io/github/followers/saharatyokthuan?label=Followers&style=flat&color=0e75b6" alt="จำนวนผู้ติดตาม" />
 </p>
 
 ---
 
+<p align="right"> <b>🇹🇭 ภาษาไทย</b> · <a href="https://github.com/saharatyokthuan/saharatyokthuan/blob/main/README-en.md">🇬🇧 English</a>
+</p>
+
 <!-- ───── 4) เกี่ยวกับฉัน ───── -->
 ## 👋 เกี่ยวกับฉัน
-
-<!-- TODO: แนะนำตัว 2–3 ประโยค: คุณคือใคร · ทำอะไร · อะไรทำให้คุณสนุกกับงาน -->
-
-```javascript
-const me = {
-  name: "",        // TODO: ชื่อ-นามสกุล
-  nickname: "",    // TODO: ชื่อเล่น
-  location: "",    // TODO: เมือง, ประเทศ
-  languages: [],   // TODO: ภาษาที่สื่อสารได้
-  hobbies: [],     // TODO: งานอดิเรก
-  motto: "",       // TODO: คติประจำใจ
-};
-```
-
+- **ชื่อ-สกุล**: **สหรัฐ**  **ยกททวน**
+- **ชื่อเล่น**:  **ลิก**
+- **ประเทศ**:  **ไทย**
+- **งานอดิเรก**:  **เขียนโค้ด**,**อ่านหนังสือ**,**เล่นเกม**
+- **คติประจำใจ**:  **อย่ายอมแพ้**
+---
 <!-- ───── 5) บทบาทและงาน ───── -->
 ## 🧑‍💻 บทบาทและงาน
 
-> 🎯 **บทบาทหลัก:** <!-- TODO: สรุปบทบาทของคุณใน 1 ประโยค (ตำแหน่ง + คุณค่าที่คุณสร้างให้ผู้อื่น) -->
+> 🎯 **บทบาทหลัก:** *พนักงานประจำร้านสะดวกซื้อ*
 
 ### 🎭 บทบาท
 
 | หัวข้อ | รายละเอียด |
 |:--|:--|
-| 💼 **ตำแหน่ง** | <!-- TODO: ชื่อตำแหน่ง --> |
-| 🏢 **องค์กร / สถานะ** | <!-- TODO: ชื่อองค์กร หรือสถานะปัจจุบัน --> |
-| 🧭 **สายงานที่เชี่ยวชาญ** | <!-- TODO: สายงานหลัก 1–2 สาย --> |
-| ⏳ **ประสบการณ์** | <!-- TODO: จำนวนปี --> |
+| 💼 **ตำแหน่ง** | **พนักงานประจำร้าน** |
+| 🏢 **องค์กร / สถานะ** | **ร้านสะดวกซื้อที่ใหญ่ที่สุดในประเทศไทย**|
+| 🧭 **สายงานที่เชี่ยวชาญ** | **บริการ** |
+| ⏳ **ประสบการณ์** | **1 ปี** |
 
 ### 📌 งาน
 
 | หัวข้อ | รายละเอียด |
 |:--|:--|
-| ✅ **หน้าที่รับผิดชอบ** | <!-- TODO: งานหลัก 2–3 อย่าง --> |
-| 🔭 **กำลังทำ** | <!-- TODO: โปรเจกต์ที่ทำอยู่ตอนนี้ --> |
-| 🌱 **กำลังเรียนรู้** | <!-- TODO: สิ่งที่กำลังศึกษา --> |
-| 🤝 **เปิดรับ** | <!-- TODO: ประเภทงานหรือความร่วมมือที่เปิดรับ --> |
-| 💬 **ถามฉันได้เรื่อง** | <!-- TODO: หัวข้อที่ถนัด --> |
+| ✅ **หน้าที่รับผิดชอบ** | **ทุกอย่าง** |
+| 🔭 **กำลังทำ** | **ทำไปเรื่อย** |
+| 🌱 **กำลังเรียนรู้** | **เขียนโค้ด:ภาษาPython**,**Ai** |
+| 💬 **ติดต่อสอบถาม** | **contact ด้านล่าง👇** |
 
 <details>
 <summary><b>📈 ประสบการณ์ทำงาน (คลิกเพื่อดู)</b></summary>
 
 <!-- TODO: เพิ่มแถวตามจำนวนประสบการณ์ เรียงจากล่าสุดไปเก่าสุด -->
 
-| ช่วงเวลา | ตำแหน่ง | องค์กร | ผลงานหลัก |
+| ช่วงเวลา | ตำแหน่ง | สาขา | **หมายเหตุ** |
 |:--|:--|:--|:--|
-| <!-- TODO --> | <!-- TODO --> | <!-- TODO --> | <!-- TODO --> |
+| 25/06/2569 | พนักงานประจำร้าน | 18517 | *เริ่มงานวันแรก* |
+| 10/05/2569| พนักงานประจำร้าน| 03126 | *ย้ายสาขา* |
 
 </details>
 
@@ -107,8 +95,8 @@ const me = {
 
 <!-- หมายเหตุ: ถ้าการ์ดไม่แสดง (ติด rate limit) ให้ deploy github-readme-stats ของตัวเองบน Vercel แล้วเปลี่ยนโดเมนในลิงก์ -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="สถิติ GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="ภาษาที่ใช้บ่อย" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&theme=tokyonight&hide_border=true" alt="สถิติ GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&theme=tokyonight&hide_border=true" alt="ภาษาที่ใช้บ่อย" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="สถิติความต่อเนื่อง" />
