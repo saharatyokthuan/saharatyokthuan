@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # รันอัตโนมัติทุกวัน 00:00 UTC (07:00 น. เวลาไทย)
+  workflow_dispatch:       # กดรันเองได้จากแท็บ Actions
+  push:
+    branches:
+      - main               # รันทุกครั้งที่ push ขึ้น main
+
+permissions:
+  contents: write          # อนุญาตให้ push ไฟล์ SVG ไปที่ branch "output"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVG (light + dark)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
