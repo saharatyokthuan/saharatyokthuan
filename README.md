@@ -74,10 +74,10 @@
 
 | หมวด | เทคโนโลยี |
 |:--|:--|
-| 💻 **ภาษาโปรแกรม** | <img src="https://skillicons.dev/icons?i=SKILL_IDS" alt="ภาษาโปรแกรม" /> |
-| 🧩 **เฟรมเวิร์กและไลบรารี** | <img src="https://skillicons.dev/icons?i=SKILL_IDS" alt="เฟรมเวิร์กและไลบรารี" /> |
-| 🗄️ **ฐานข้อมูลและคลาวด์** | <img src="https://skillicons.dev/icons?i=SKILL_IDS" alt="ฐานข้อมูลและคลาวด์" /> |
-| 🧰 **เครื่องมือ** | <img src="https://skillicons.dev/icons?i=SKILL_IDS" alt="เครื่องมือ" /> |
+| 💻 **ภาษาโปรแกรม** | <img src="https://skillicons.dev/icons?i=python,javascript,html5,css3" alt="ภาษาโปรแกรม" /> |
+| 🧩 **เฟรมเวิร์กและไลบรารี** | <img src="https://skillicons.dev/icons?i=fastapi,express,tailwindcss,bootstrap,jquery,react,vue,nextjs,django,flask" alt="เฟรมเวิร์กและไลบรารี" /> |
+| 🗄️ **ฐานข้อมูลและคลาวด์** | <img src="https://skillicons.dev/icons?i=sqlite,docker,vercel,firebase,supabase" alt="ฐานข้อมูลและคลาวด์" /> |
+| 🧰 **เครื่องมือ** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,npm" alt="เครื่องมือ" /> |
 
 <!-- ───── 7) ผลงานเด่น ───── -->
 ## 🚀 ผลงานเด่น
@@ -86,9 +86,7 @@
 
 | โปรเจกต์ | รายละเอียด | บทบาทของฉัน | เทคโนโลยี | ลิงก์ |
 |:--|:--|:--|:--|:--:|
-| <!-- TODO: ชื่อโปรเจกต์ --> | <!-- TODO: แก้ปัญหาอะไร --> | <!-- TODO: ส่วนที่คุณทำ --> | <!-- TODO: เทคโนโลยีที่ใช้ --> | <!-- TODO: ลิงก์ repo หรือ demo --> |
-| <!-- TODO: ชื่อโปรเจกต์ --> | <!-- TODO: แก้ปัญหาอะไร --> | <!-- TODO: ส่วนที่คุณทำ --> | <!-- TODO: เทคโนโลยีที่ใช้ --> | <!-- TODO: ลิงก์ repo หรือ demo --> |
-| <!-- TODO: ชื่อโปรเจกต์ --> | <!-- TODO: แก้ปัญหาอะไร --> | <!-- TODO: ส่วนที่คุณทำ --> | <!-- TODO: เทคโนโลยีที่ใช้ --> | <!-- TODO: ลิงก์ repo หรือ demo --> |
+| 🚧 **Coming Soon** | กำลังสร้างโปรเจกต์แรกๆ อยู่ | — | — | — |
 
 <!-- ───── 8) สถิติบน GitHub ───── -->
 ## 📊 สถิติบน GitHub
@@ -99,22 +97,22 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&theme=tokyonight&hide_border=true" alt="ภาษาที่ใช้บ่อย" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="สถิติความต่อเนื่อง" />
+  <img src="https://streak-stats.demolab.com/?user=saharatyokthuan&theme=tokyonight&hide_border=true" alt="สถิติความต่อเนื่อง" />
 </p>
 
 <details>
 <summary><b>📈 กราฟกิจกรรม (คลิกเพื่อดู)</b></summary>
 <br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="กราฟกิจกรรม" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saharatyokthuan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="กราฟกิจกรรม" />
 </details>
 
 ### 🐍 งูกินคอนทริบิวชัน
 
 <!-- ต้องเพิ่มไฟล์ .github/workflows/snake.yml และรัน Action ก่อน รูปจึงจะแสดง -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="แอนิเมชันงูกินคอนทริบิวชัน" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/output/github-snake.svg" />
+  <img alt="แอนิเมชันงูกินคอนทริบิวชัน" src="https://raw.githubusercontent.com/saharatyokthuan/saharatyokthuan/output/github-snake.svg" />
 </picture>
 
 <!-- ───── 9) ช่องทางการติดต่อ ───── -->
@@ -123,27 +121,27 @@
 <!-- TODO: แทน YOUR_... ในลิงก์ด้วยบัญชีของคุณ · แพลตฟอร์มไหนไม่ใช้ให้ลบทั้งบรรทัด -->
 <p align="center">
   <!-- 💼 สายงาน -->
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
-  <a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:saharatyokthuan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/saharat-yokthuan-070080414"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://saharat-labs.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <br />
   <!-- 💬 แชท -->
-  <a href="https://line.me/ti/p/~YOUR_LINE_ID"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://line.me/ti/p/~saharat_yok"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <br />
   <!-- 🌐 โซเชียลมีเดีย -->
-  <a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.threads.net/@YOUR_THREADS"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
-  <a href="https://www.tiktok.com/@YOUR_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <br />
   <!-- ✍️ บทความและชุมชนนักพัฒนา -->
-  <a href="https://medium.com/@YOUR_MEDIUM"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://dev.to/YOUR_DEVTO"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
-  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
 ---
