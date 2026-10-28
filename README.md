@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <a href="#" >
-  <img scr="https://github.com/saharatyokthuan/src/.." alt="profile"/>
+  <img scr="https://github.com/saharatyokthuan/src/profile_final.gif" alt="profile"/>
 </a>
 </p>
 <p align="center">
