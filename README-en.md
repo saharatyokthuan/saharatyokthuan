@@ -1,21 +1,18 @@
 <!-- ==================================================== -->
 <!-- GitHub Profile README · English version (README.md) -->
-<!-- How to use: search for TODO and YOUR_ and replace them with your real info -->
 <!-- ==================================================== -->
 
 <!-- ───── 0) Language switch ───── -->
 <p align="right">
-  <a href="https://github.com/saharatyokthuan/saharatyokthuan/blob/main/README.th.md">🇹🇭 ภาษาไทย</a> · <b>🇬🇧 English</b>
+  <a href="https://github.com/saharatyokthuan/saharatyokthuan/blob/main/README.md">🇹🇭 ภาษาไทย</a> · <b>🇬🇧 English</b>
 </p>
 
 <!-- ───── 1) Header banner ───── -->
-<!-- TODO: Replace YOUR_NAME with the name to display and YOUR_TAGLINE with a short tagline (use %20 for spaces) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Saharat%20Yokthuan&fontSize=48&fontAlignY=36&desc=Junior%20Developer%20%F0%9F%91%80&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Header banner" />
 </p>
 
 <!-- ───── 2) Auto-typing intro ───── -->
-<!-- TODO: Replace LINE_1;LINE_2;LINE_3 with your intro sentences (separate sentences with ; and use + for spaces) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%21+I%27m+Saharat+Yokthuan.;I+work+at+a+convenience+store.;Learning+Python+and+AI." alt="Auto-typing introduction" />
 </p>
@@ -31,16 +28,14 @@
 <!-- ───── 4) About me ───── -->
 ## 👋 About Me
 
-<!-- TODO: Introduce yourself in 2–3 sentences: who you are · what you do · what makes you enjoy your work -->
-
 ```javascript
 const me = {
-  name: "Saharat Yokthuan",        // TODO: full name
-  nickname: "Lik",                 // TODO: nickname
-  location: "Thailand",            // TODO: city, country
-  languages: ["Thai", "English"],  // TODO: spoken languages
-  hobbies: ["Coding", "Reading", "Gaming"], // TODO: hobbies
-  motto: "Never give up",          // TODO: personal motto
+  name: "Saharat Yokthuan",
+  nickname: "Lik",
+  location: "Thailand",
+  languages: ["Thai", "English"],
+  hobbies: ["Coding", "Reading", "Gaming"],
+  motto: "Never give up",
 };
 ```
 
@@ -71,8 +66,6 @@ const me = {
 <details>
 <summary><b>📈 Work Experience (click to expand)</b></summary>
 
-<!-- TODO: Add one row per experience, ordered from most recent to oldest -->
-
 | Period | Position | Organization | Key Achievements |
 |:--|:--|:--|:--|
 | 25/06/2026 | Convenience Store Staff | Branch 18517 | First day at work |
@@ -82,8 +75,6 @@ const me = {
 
 <!-- ───── 6) Tools & technologies ───── -->
 ## 🛠️ Tools & Technologies
-
-<!-- TODO: Replace SKILL_IDS with icon IDs separated by , (full list: https://github.com/tandpfun/skill-icons#icons-list) · add/remove categories to fit your role -->
 
 | Category | Technologies |
 |:--|:--|
@@ -95,11 +86,13 @@ const me = {
 <!-- ───── 7) Featured projects ───── -->
 ## 🚀 Featured Projects
 
-<!-- TODO: Add the 3–6 projects you are proudest of and state clearly which part you were responsible for -->
-
 | Project | Description | My Role | Technologies | Link |
 |:--|:--|:--|:--|:--:|
-| 🚧 **Coming Soon** | Building first projects | — | — | — |
+| 💰 **Cash-Flow** | Personal finance web app for tracking income/expenses, budgets, and Canvas charts | Developed solo: all code, UI, and business logic | HTML, JavaScript, CSS, SheetJS, Canvas | https://github.com/saharatyokthuan/Cash-Flow |
+| 🏪 **pos-mobile** | Point of Sale system for small shops with barcode scanning and Excel export | Developed solo: all code, UI, and SheetJS/Chart.js integration | HTML, JavaScript, CSS, SheetJS, Chart.js | https://github.com/saharatyokthuan/pos-mobile |
+| 📅 **shiftmate** | Employee shift scheduling app with JSON, CSV, XLSX export and optional Flask backend | Developed solo: all code, UI, and Flask backend | HTML, JavaScript, CSS, Flask, SQLite | https://github.com/saharatyokthuan/shiftmate |
+| 🥤 **vender** | Offline-first vending machine stock manager with JSON backup/restore | Developed solo: all code and mobile-first design | HTML, JavaScript, CSS | https://github.com/saharatyokthuan/vender |
+| 🤖 **Olympus** | Multi-platform bots for Telegram (Telegraf) and Discord (discord.js) | Developed solo: all code for both bots | Node.js, Telegraf, discord.js, dotenv | https://github.com/saharatyokthuan/Olympus |
 
 <!-- ───── 8) GitHub stats ───── -->
 ## 📊 GitHub Stats
@@ -131,7 +124,6 @@ const me = {
 <!-- ───── 9) Contact ───── -->
 ## 📫 Contact
 
-<!-- TODO: Replace YOUR_... in each link with your account · delete the whole line for any platform you do not use -->
 <p align="center">
   <!-- 💼 Professional -->
   <a href="mailto:saharatyokthuan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
