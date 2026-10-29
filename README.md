@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=สหรัฐ++ยกทวน&fontSize=48&fontAlignY=36&desc=นักเขียนโค้ดฝึกหัด+👀&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="แบนเนอร์ส่วนหัว" />
 </p>
 <p align="center">
-<a href="#" >
-  <img scr="https://github.com/saharatyokthuan/src/profile_final.gif" alt="profile"/>
-</a>
+  <a href="https://github.com/saharatyokthuan">
+    <img src="src/profile_final.gif" width="150" height="150" alt="รูปโปรไฟล์" />
+  </a>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Prompt&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A%21+%E0%B8%9C%E0%B8%A1%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD+%E0%B8%AA%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%90+%E0%B8%A2%E0%B8%81%E0%B8%97%E0%B8%A7%E0%B8%99;%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8+22+%E0%B8%9B%E0%B8%B5+%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%B6%E0%B8%81%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94;%E0%B8%82%E0%B8%AD%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%9A%21" alt="ข้อความแนะนำตัว" />
@@ -118,27 +118,27 @@
 
 <p align="center">
   <!-- 💼 สายงาน -->
-  <a href="mailto:saharatyokthuan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/saharat-yokthuan-070080414"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
-  <a href="https://saharat-labs.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:saharatyokthuan@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=&color=EA4335&logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/saharat-yokthuan-070080414"><img src="https://img.shields.io/static/v1?label=&message=&color=0A66C2&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://saharat-labs.github.io/"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=googlechrome&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
   <br />
   <!-- 💬 แชท -->
-  <a href="https://line.me/ti/p/~saharat_yok"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE" /></a>
-  <a href="https://discord.com/users/743280483462283344"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="t.me/saharatyok"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://line.me/ti/p/~saharat_yok"><img src="https://img.shields.io/static/v1?label=&message=&color=00C300&logo=line&logoColor=white&style=for-the-badge" alt="LINE" /></a>
+  <a href="https://discord.com/users/743280483462283344"><img src="https://img.shields.io/static/v1?label=&message=&color=5865F2&logo=discord&logoColor=white&style=for-the-badge" alt="Discord" /></a>
+  <a href="t.me/saharatyok"><img src="https://img.shields.io/static/v1?label=&message=&color=26A5E4&logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram" /></a>
   <br />
   <!-- 🌐 โซเชียลมีเดีย -->
-  <a href="https://www.facebook.com/share/1FNdtHvx4F/"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/shrt_ykk.56?vrfl=eDN5OWF6ZHE4aGdn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://x.com/itsmelik_yok"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.threads.com/@shrt_ykk.56"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
-  <a href="https://www.tiktok.com/@saharat_cc?_r=1&_t=ZS-9AwjfHrgiFM"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://www.youtube.com/@saharat29lik"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/share/1FNdtHvx4F/"><img src="https://img.shields.io/static/v1?label=&message=&color=0866FF&logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/shrt_ykk.56?vrfl=eDN5OWF6ZHE4aGdn"><img src="https://img.shields.io/static/v1?label=&message=&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://x.com/itsmelik_yok"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
+  <a href="https://www.threads.com/@shrt_ykk.56"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=threads&logoColor=white&style=for-the-badge" alt="Threads" /></a>
+  <a href="https://www.tiktok.com/@saharat_cc?_r=1&_t=ZS-9AwjfHrgiFM"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=tiktok&logoColor=white&style=for-the-badge" alt="TikTok" /></a>
+  <a href="https://www.youtube.com/@saharat29lik"><img src="https://img.shields.io/static/v1?label=&message=&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" /></a>
   <br />
   <!-- ✍️ บทความและชุมชนนักพัฒนา -->
-  <a href="https://medium.com/@saharatyokthuan"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://dev.to/saharatyokthuan"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
-  <a href="https://stackoverflow.com/users/33244558/saharat-yokthuan?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://medium.com/@saharatyokthuan"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>
+  <a href="https://dev.to/saharatyokthuan"><img src="https://img.shields.io/static/v1?label=&message=&color=0A0A0A&logo=devdotto&logoColor=white&style=for-the-badge" alt="dev.to" /></a>
+  <a href="https://stackoverflow.com/users/33244558/saharat-yokthuan?tab=profile"><img src="https://img.shields.io/static/v1?label=&message=&color=F58025&logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" /></a>
 </p>
 
 ---
