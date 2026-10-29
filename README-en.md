@@ -94,17 +94,17 @@
 
 <!-- Note: If the cards do not load (rate limit), deploy your own github-readme-stats on Vercel and change the domain in the links -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saharatyokthuan&theme=tokyonight&hide_border=true" alt="Streak stats" />
 </p>
 
 <details>
-<summary><b>📈 Activity Graph (click to expand)</b></summary>
+<summary><b>📈 Activity Overview (click to expand)</b></summary>
 <br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saharatyokthuan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saharatyokthuan&theme=tokyonight" width="100%" alt="Activity overview" />
 </details>
 
 ### 🐍 Contribution Snake

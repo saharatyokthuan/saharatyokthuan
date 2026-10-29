@@ -91,17 +91,17 @@
 
 <!-- หมายเหตุ: ถ้าการ์ดไม่แสดง (ติด rate limit) ให้ deploy github-readme-stats ของตัวเองบน Vercel แล้วเปลี่ยนโดเมนในลิงก์ -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&theme=tokyonight&hide_border=true" alt="สถิติ GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&theme=tokyonight&hide_border=true" alt="ภาษาที่ใช้บ่อย" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=saharatyokthuan&show_icons=true&theme=tokyonight&hide_border=true" alt="สถิติ GitHub" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=saharatyokthuan&layout=compact&theme=tokyonight&hide_border=true" alt="ภาษาที่ใช้บ่อย" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=saharatyokthuan&theme=tokyonight&hide_border=true" alt="สถิติความต่อเนื่อง" />
 </p>
 
 <details>
-<summary><b>📈 กราฟกิจกรรม (คลิกเพื่อดู)</b></summary>
+<summary><b>📈 ภาพรวมกิจกรรม (คลิกเพื่อดู)</b></summary>
 <br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saharatyokthuan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="กราฟกิจกรรม" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saharatyokthuan&theme=tokyonight" width="100%" alt="ภาพรวมกิจกรรม" />
 </details>
 
 ### 🐍 งูกินคอนทริบิวชัน
