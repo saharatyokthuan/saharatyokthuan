@@ -89,11 +89,11 @@
 ## 🐍 หมวด 4: GitHub Action สำหรับงู (ไม่บังคับ)
 
 - [x] สร้างไฟล์ `.github/workflows/snake.yml`
-- [ ] Settings → Actions → General → Workflow permissions ตั้งเป็น **Read and write**
-- [ ] ไปที่แท็บ Actions แล้วกด **Run workflow**
-- [ ] workflow รันผ่าน (ขึ้นเครื่องหมายถูกสีเขียว)
-- [ ] มี branch `output` พร้อมไฟล์ `github-snake.svg` และ `github-snake-dark.svg`
-- [ ] งูแสดงบนหน้าโปรไฟล์ทั้งโหมดมืดและโหมดสว่าง
+- [x] Settings → Actions → General → Workflow permissions ตั้งเป็น **Read and write**
+- [x] ไปที่แท็บ Actions แล้วกด **Run workflow**
+- [x] workflow รันผ่าน (ขึ้นเครื่องหมายถูกสีเขียว)
+- [x] มี branch `output` พร้อมไฟล์ `github-snake.svg` และ `github-snake-dark.svg`
+- [x] งูแสดงบนหน้าโปรไฟล์ทั้งโหมดมืดและโหมดสว่าง
 
 ## 🌐 หมวด 5: ความตรงกันของสองภาษา
 
